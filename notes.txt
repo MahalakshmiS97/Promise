@@ -1,0 +1,13 @@
+Prmise: To Overcome callback hell.
+        to hold asynchronus opperation.
+        It is an object, which holds the result os async object
+Sybtax:-
+        var/let/const variablename = new promise((esolved,reject)=>{})
+Pending:- 
+
+
+//Promise Chaining
+
+=> chaining of promise
+=> Dependent operation.
+=> the result of first promise is the input of second promise.
